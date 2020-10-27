@@ -5,7 +5,7 @@
 
 | Checkbox | ID  | Problem Name | Online Judge | Difficulty |
 |---|:---:|:---:|---|---|
-|<ul><li>- [ ] Done</li></ul>|1|[Jeff and Permutation](http://codeforces.com/problemset/problem/351/E)|Codeforces|5|
+|<ul><li>- [*] Done</li></ul>|1|[Jeff and Permutation](http://codeforces.com/problemset/problem/351/E)|Codeforces|5|
 |<ul><li>- [ ] Done</li></ul>|2|[Lucky Number Representation](http://codeforces.com/problemset/problem/354/E)|Codeforces|5|
 |<ul><li>- [ ] Done</li></ul>|3|[Lucky Queries](http://codeforces.com/problemset/problem/145/E)|Codeforces|6|
 |<ul><li>- [ ] Done</li></ul>|4|[Little Elephant and Inversions](http://codeforces.com/problemset/problem/220/E)|Codeforces|7|
